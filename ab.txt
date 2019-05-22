@@ -1,0 +1,11 @@
+Git is a distributed version contral system.
+Git is free software distribute under the GPL.
+Git is a distributed version contral system,Git is free software distribute
+under the GPL.
+Creating a new branch is quick.
+<<<<<<< HEAD
+Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
+Creating a new branch is quicl and simple.
